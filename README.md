@@ -1,5 +1,5 @@
 # nyancat-prank
-This project is just a joke to my coworker. The app will just display a nyancat overlay on top any screen and play music on background.
+This project is just a joke to my coworker. The app will just display a nyancat overlay on top any screen and plays music in background.
 
 # Demo
 
